@@ -1,0 +1,7 @@
+{
+  "name": "Noor Prayer Times",
+  "description": "A modern, spiritual Prayer Time application featuring real-time calculations, Hijri calendar, and AI-powered daily Hadith and spiritual reflections in Urdu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
